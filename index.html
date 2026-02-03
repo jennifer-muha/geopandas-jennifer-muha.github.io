@@ -33,7 +33,7 @@
     }).addTo(map);
     
     // Load and display the GeoJSON data
-    fetch('data/banks.geojson')
+    fetch('data/jeffery_pine.geojson')
         .then(response => response.json())
         .then(data => {
             L.geoJSON(data, {
