@@ -632,7 +632,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 .leaflet-tooltip-left:before,
 .leaflet-tooltip-right:before {
 	top: 50%;
-	margin-top: -6px;
+	margin-top: -5px;
 	}
 .leaflet-tooltip-left:before {
 	right: 0;
